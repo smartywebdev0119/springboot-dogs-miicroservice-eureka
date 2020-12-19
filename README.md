@@ -1,9 +1,9 @@
-![build](https://github.com/ltpitt/java-spring-boot-dogs-microservice-eureka/workflows/build/badge.svg)
+[![build](https://github.com/ltpitt/java-spring-boot-dogs-microservice-eureka/workflows/build/badge.svg)](https://github.com/ltpitt/java-spring-boot-dogs-microservice-eureka/actions)
 [![GitHub Issues](https://img.shields.io/github/issues-raw/ltpitt/java-spring-boot-dogs-microservice-eureka)](https://github.com/ltpitt/java-spring-boot-dogs-microservice-eureka/issues)
-![Total Commits](https://img.shields.io/github/last-commit/ltpitt/java-spring-boot-dogs-microservice-eureka)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/4w/ltpitt/java-spring-boot-dogs-microservice-eureka?foo=bar)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
+[![Total Commits](https://img.shields.io/github/last-commit/ltpitt/java-spring-boot-dogs-microservice-eureka)](https://github.com/ltpitt/java-spring-boot-dogs-microservice-eureka/commits)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/4w/ltpitt/java-spring-boot-dogs-microservice-eureka?foo=bar)](https://github.com/ltpitt/java-spring-boot-dogs-microservice-eureka/commits)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ltpitt/java-spring-boot-dogs-microservice-eureka/blob/master/LICENSE)
+![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg
 
 # Java Spring Boot Dogs Microservice Eureka
 > A Spring Boot microservice written for a Dogs shop using Eureka Server.
