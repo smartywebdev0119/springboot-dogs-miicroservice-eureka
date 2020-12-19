@@ -3,7 +3,7 @@
 [![Total Commits](https://img.shields.io/github/last-commit/ltpitt/java-spring-boot-dogs-microservice-eureka)](https://github.com/ltpitt/java-spring-boot-dogs-microservice-eureka/commits)
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/4w/ltpitt/java-spring-boot-dogs-microservice-eureka?foo=bar)](https://github.com/ltpitt/java-spring-boot-dogs-microservice-eureka/commits)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ltpitt/java-spring-boot-dogs-microservice-eureka/blob/master/LICENSE)
-![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg
+![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
 
 # Java Spring Boot Dogs Microservice Eureka
 > A Spring Boot microservice written for a Dogs shop using Eureka Server.
