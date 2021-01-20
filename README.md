@@ -1,4 +1,5 @@
 [![build](https://github.com/ltpitt/java-spring-boot-dogs-microservice-eureka/workflows/build/badge.svg)](https://github.com/ltpitt/java-spring-boot-dogs-microservice-eureka/actions)
+[![CodeQL](https://github.com/ltpitt/java-spring-boot-dogs-microservice-eureka/workflows/CodeQL/badge.svg)](https://github.com/ltpitt/java-spring-boot-dogs-microservice-eureka/actions?query=workflow%3ACodeQL)
 [![GitHub Issues](https://img.shields.io/github/issues-raw/ltpitt/java-spring-boot-dogs-microservice-eureka)](https://github.com/ltpitt/java-spring-boot-dogs-microservice-eureka/issues)
 [![Total Commits](https://img.shields.io/github/last-commit/ltpitt/java-spring-boot-dogs-microservice-eureka)](https://github.com/ltpitt/java-spring-boot-dogs-microservice-eureka/commits)
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/4w/ltpitt/java-spring-boot-dogs-microservice-eureka?foo=bar)](https://github.com/ltpitt/java-spring-boot-dogs-microservice-eureka/commits)
